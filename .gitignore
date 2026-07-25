@@ -1,0 +1,6 @@
+# Ignore files
+/vendor/
+.DS_Store
+*.log
+.vscode/
+*.env
